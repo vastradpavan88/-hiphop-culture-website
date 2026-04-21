@@ -3,7 +3,7 @@
 A modern web project that represents the energy, style, and essence of hip-hop culture through design, music, and visuals.
 
 ## 🚀 Live Project
- urbanbeats.netlify.app
+https://urbanbeats.netlify.app/
 
 ## 📌 Features
 - 🎧 Hip-hop inspired UI design
